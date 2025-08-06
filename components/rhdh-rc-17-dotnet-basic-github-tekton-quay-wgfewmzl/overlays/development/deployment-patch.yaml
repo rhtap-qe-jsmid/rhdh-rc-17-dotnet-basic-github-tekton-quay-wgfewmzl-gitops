@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/rhdh-rc-17-dotnet-basic-github-tekton-quay-wgfewmzl:03fab1b7da97d4f2e83ca68b2fc645b4f26a3532@sha256:bca3e0a6048f84523af5c3b469dc8e29b9620f24eaaec09b5f5d9f40cb81521a
+        - image: quay.io/jsmid/rhdh-rc-17-dotnet-basic-github-tekton-quay-wgfewmzl:bd38e0514c5ded3473d3532bbb8c9ab7109e9f98@sha256:b5a18f5de4bebba2e6ae4b0f936972015dd4a348e59913cd0369f330b6f9bff0
           name: container-image
